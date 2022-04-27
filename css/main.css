@@ -1,0 +1,38 @@
+.nav-menu {
+  text-align: right;
+  text-decoration: none;
+  color:#ff0000;
+}
+.nav-spacing {
+  margin: 0 0 0 10px;
+}
+.image-link{
+  text-decoration: none;
+}
+
+.block{
+  font-style: italic;
+  font-size: 20px;
+}
+
+.ishmael{
+   font-style: normal;
+   font-size: 24px;
+    font-weight: bold;
+    color: #f00;
+}
+
+.title{
+  text-align: center;
+  margin: 0 0 80 0px;
+}
+
+.sperm-whale{
+  display: block;
+  margin: 0 auto;
+}
+
+.moby-dick{
+  float: left;
+  margin: 0 40px 0;
+}
